@@ -1,0 +1,431 @@
+
+.container1 {
+    height: 30vh;
+    width: 30vw;
+    background-color: #0a0e27;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: left;
+    
+    
+}
+
+.Container {
+    display: flex;
+    flex-direction: row;
+    background-color: #0a0e27;
+    height: 80vh;
+    width: 100vw;
+    padding-right: 20px;
+}
+
+.services {
+    color: blue;
+    text-align: end;
+    font-size: 2.0rem;
+}
+
+.our {
+    color: white;
+    text-align: left;
+    font-size: 3.0rem;
+    padding-left: 30px;
+    text-align: left;
+    font-weight: 700;
+}
+.ourr
+{
+    color: #5485e7;
+    text-align: left;
+    font-size: 3.0rem;
+    padding-left: 30px;
+    text-align: left;
+    font-weight: 700;
+}
+
+.fahad {
+    text-align: left;
+    margin-top: 50px;
+    background-color: white;
+    width: 30vw;
+    height: 65vh;
+    margin-right: 20px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    
+}  
+.fahad:hover {
+    
+    color: blue;
+
+  }
+.fahad:hover p{
+    color:blue
+}
+  .fahad .img {
+    display: block;
+    
+    max-width: 100%;
+    height: auto;
+    color: blue;
+    
+  }
+
+h5 {
+    margin-top: 1rem;
+    font-weight: 700;
+}
+
+p {
+    color: grey;
+    margin: 1rem auto;
+    max-width: 80%;
+    font-size: 1rem;
+}
+
+.arsal {
+    text-align: left;
+    margin-top: 50px;
+    background-color: white;
+    width: 30vw;
+    height: 65vh;
+    margin-right: 20px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+.arsal:hover
+{
+    color: blue;
+}
+.arsal:hover p
+{
+    color: blue;
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+    background-color: #0a0e27;
+    height: 100vh;
+    width: 100vw;
+   
+}
+
+
+
+.box1 {
+    text-align: left;
+    margin-top: 50px;
+    background-color: white;
+    width: 30vw;
+    height: 70vh;
+    margin-left: 30px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+.box1:hover
+{
+    color: blue;
+}
+.box1:hover p
+{
+    color: blue;
+}
+
+
+.box2 {
+    text-align: left;
+    margin-top: 50px;
+    background-color: white;
+    width: 30vw;
+    height: 70vh;
+    margin-left: 20px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+.box2:hover
+{
+    color: blue;
+}
+.box2:hover p
+{
+    color: blue;
+}
+
+.box3 {
+    text-align: left;
+    margin-top: 50px;
+    background-color: white;
+    width: 31.5vw;
+    height: 70vh;
+    margin-left: 20px;
+    margin-top: 0px;
+    cursor: pointer;
+    
+}
+.box3:hover
+{
+    color: blue;
+}
+.box3:hover p
+{
+    color: blue;
+}
+
+
+.split-background {
+    width: 100vw;
+}
+
+.section-dark {
+    background-color: #0a0e27;
+    padding: 50px 0;
+    color: white;
+}
+
+.section-light {
+    background-color: white;
+   
+   
+}
+.section-blue {
+    background-color: rgba(69, 96, 194, 0.874);
+    height:50vh;
+    padding-bottom: 50px;
+    
+   margin-top: 0px;
+   
+   
+}
+.section-content {
+    text-align: center;
+   
+    max-width: 1200px;
+}
+
+.section-content h1 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.section-content p {
+    margin-bottom: 50px;
+}
+
+.service {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    width: 30%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.service:hover {
+    transform: scale(1.05);
+}
+
+.service h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.service p {
+    font-size: 1em;
+    color: #333;
+}
+
+.images
+{
+    display: flex;
+    flex-direction: row;
+   
+   
+}
+.para {
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .project {
+   
+    font-size: 2.5rem; 
+    font-family: 'Arial', sans-serif;
+    font-weight: 600; 
+    
+    letter-spacing: 0px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+    margin-top: 20px ; 
+    margin-bottom: 0px;
+  }
+  
+  .project-highlight {
+    color: #007BFF; 
+    font-size: 2.5rem; 
+    font-family: 'Arial', sans-serif;
+    font-weight: 700; 
+   
+    letter-spacing: 0px; 
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); 
+    margin-top:0;
+  }
+  
+  
+.web
+{
+    width: 30vw;
+    margin-left: 10px;
+    text-align: left;
+    margin-top: 0px;
+    
+}
+.nameweb
+{
+    padding-left: 35px;
+    padding-top: 30px;
+    margin: 0px;
+    padding-top: 100px;
+}
+.technology
+{
+    margin-top: 0px;
+    width:50vw;
+    padding-top:70px
+    
+}
+.expertise
+{    margin-top: 0px;
+    font-size: 3rem;
+    color: white;
+    margin-left: 50px;
+}
+.partner
+{
+    
+    width:80vw;
+    text-align: center;
+    padding-left: 300px;
+    padding-top: 50px;
+    margin-top: 0px;
+   
+}
+.why
+{
+    font-size: 3rem; /* Increased size */
+    font-family: 'Arial', sans-serif;
+    font-weight: 700; /* Bold weight */
+    line-height: 1.4; /* Matching line spacing */
+    letter-spacing: 1px; /* Increased spacing for consistency */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); /* Subtle shadow for emphasis */
+    margin: 10px 0; /* Adding some space around the text */
+}
+.img-partner
+{
+    display: flex;
+    flex-direction: row;
+}
+.partner1
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+.partner-context{
+    display: flex;
+    flex-direction: row;
+   
+    
+    width: 100vw;
+
+}
+.partner-context1 {
+    text-align: center;
+    margin-top: 50px;
+    background-color: white;
+    width: 30vw;
+    height: 45vh;
+    margin-left: 30px;
+    border-radius: 15px; /* Smoother corners */
+    border: 3px solid transparent;/* Added border with color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), 0 2px 4px rgba(0, 0, 0, 0.2); /* Shadow for 3D effect */
+    transform: translateY(-20px); /* Slightly lift it up */
+  }
+  
+.partner-context2 {
+    text-align: center;
+    margin-top: 50px;
+    background-color: white;
+    width: 30vw;
+    height: 70vh;
+    margin-left: 20px;
+    
+   
+}
+.partner-context3 {
+    text-align: center;
+    margin-top: 50px;
+    background-color: white;
+    width: 31.5vw;
+    height: 70vh;
+    margin-left: 20px;
+    
+}
+.Partner-context{
+    display: flex;
+    flex-direction: row;
+    height: 60vh;
+    width: 100vw;
+    margin-top: 20px;
+
+}
+.Partner-context1
+{
+    text-align: center;
+   
+    background-color: white;
+    width: 30vw;
+    height: 40vh;
+    margin-left: 30px;
+    margin-top: 0px;
+    border-radius: 15px; /* Smoother corners */
+    border: 3px solid transparent; /* Added border with color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), 0 2px 4px rgba(0, 0, 0, 0.2); /* Shadow for 3D effect */
+    transform: translateY(-20px); /* Slightly lift it up */
+}
+.Partner-context2 {
+    text-align: center;
+   
+    background-color: white;
+    width: 30vw;
+    height: 40vh;
+    margin-left: 20px;
+    margin-top: 0px;
+    border-radius: 15px; /* Smoother corners */
+    border: 3px solid transparent; /* Added border with color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), 0 2px 4px rgba(0, 0, 0, 0.2); /* Shadow for 3D effect */
+    transform: translateY(-20px); /* Slightly lift it up */
+}
+.Partner-context3 {
+    text-align: center;
+   
+    background-color: white;
+    width: 31.5vw;
+    height: 40vh;
+    margin-left: 20px;
+    margin-top: 0px;
+    border-radius: 15px; /* Smoother corners */
+    border: 3px solid transparent; /* Added border with color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), 0 2px 4px rgba(0, 0, 0, 0.2); /* Shadow for 3D effect */
+    transform: translateY(-20px); /* Slightly lift it up */
+}
+.client
+{
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 20px;
+
+}

@@ -1,0 +1,54 @@
+.nameweb
+{
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.web1
+{
+   
+    width: 30vw;
+    margin-left: 10px;
+    text-align: left;
+    margin-top: 0px;
+    
+}
+.wweb{
+display: flex;
+   flex-direction: row;
+}
+.webimage
+{
+    width: 70%;
+    padding-left: 200px;
+    margin-right: 0px;
+}
+.webimage2
+{
+    
+    height: 50%;
+    padding-left: 300px;
+   
+    margin-right: 0px;
+}
+.webimage3
+{
+    
+    height: 20%;
+    padding-left: 250px;
+   
+    margin-right: 0px;
+}
+.webimage7
+{
+    
+    height: 20%;
+    padding-left: 300px;
+    width: 70%;
+   
+    margin-right: 0px;
+}
+.iMg:hover
+{
+    color: blue;
+}
